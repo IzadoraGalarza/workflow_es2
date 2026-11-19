@@ -1,0 +1,17 @@
+# Backend (Java/Maven)
+target/
+*.class
+*.log
+
+# Frontend (Node/React)
+node_modules/
+build/
+.env.local
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+.DS_Store
